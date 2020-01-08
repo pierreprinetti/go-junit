@@ -41,4 +41,4 @@ func main() {
 
 ## Credit
 
-This work is based on [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report).
+This work is based on [jstemmer/go-junit-report](https://github.com/jstemmer/go-junit-report), which is Copyright (c) 2012 Joel Stemmer.
